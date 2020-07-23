@@ -6,25 +6,23 @@
 <a href="https://www.instagram.com/mr_developer.code"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/instagram.png" width="40" /></a>
 
 <h3>The Questions You May Have 👱🏼</h3>
-<details>
-  <summary>Who are you? ❓</summary>
-  <pre>A Philomath who loves to transform ideas into code .
-  A third year Information technology student having a keen intrest in DevOps and Cloud Computing Technologies <br>
-  My name describes my qualities,
-  M: Motivated Learner
-  O: Open minded to create new things
-  H: Hard working
-  I: Innovative
-  T: Trustworthy
-  </pre>
-</details>
 
+  <summary>Who are you? ❓</summary><pre>
+A Philomath who loves to transform ideas into code .
+A third year Information technology student having a keen intrest in DevOps and Cloud Computing Technologies <br>
+My name describes my qualities,
+M: Motivated Learner
+O: Open minded to create new things
+H: Hard working
+I: Innovative
+T: Trustworthy
+  </pre>
 <details>
 <summary>Certifications and Acheivements 🏆</summary>
   <ul>
    <li>My article : Deployinh Webserver on AWS using Terraform is published on AWS Monthly Newsletter <a href="https://www.linkedin.com/posts/devmohitsingh_aws-awseducate-terraform-activity-6686489548685406208-FBL4"> Post and Article</a>.</li>
     <li>AWS Student Ambassador</li>
-    <li>Google IT Support Certification in</li>
+    <li>Google IT Support Certification</li>
     <li>Gold Medalist in Joy of Computing Using Python</a>.</li>
     <li>MTA Netwotking Fundamentals Certified</li>
     <li>DO101 Certified (Introduction to OpenShift Applications) </li>
