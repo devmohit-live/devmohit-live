@@ -18,7 +18,7 @@ I: Innovative
 T: Trustworthy
   </pre>
 <details>
-<summary>Certifications and Acheivements 🏆</summary>
+  <summary><b>Certifications and Acheivements 🏆 </b></summary>
   <ul>
    <li>My article : Deployinh Webserver on AWS using Terraform is published on AWS Monthly Newsletter <a href="https://www.linkedin.com/posts/devmohitsingh_aws-awseducate-terraform-activity-6686489548685406208-FBL4"> Post and Article</a>.</li>
     <li>AWS Student Ambassador</li>
