@@ -26,6 +26,7 @@ T: Trustworthy
     <li>Gold Medalist in Joy of Computing Using Python</a>.</li>
     <li>MTA Netwotking Fundamentals Certified</li>
     <li>DO101 Certified (Introduction to OpenShift Applications) </li>
+    <li>DevOps Assembly Line Certified</li>
     <li>MLOPS(Machine Learning with Operations) Certified</li>
     <li>Docker Expertise</li>
     <li>Bertelsman Scholarship Recipient</li>
