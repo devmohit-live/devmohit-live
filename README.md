@@ -74,7 +74,7 @@ T: Trustworthy
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=EKS_Deployment_2tier&theme=dracula" />
 </a>
 
-<h3>What if you like my work? 🤩</h3>
+<h3>What if you like my work?  😍</h3>
 <ul>
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
