@@ -57,7 +57,7 @@ T: Trustworthy
 - 💬 Ask me about Automation/DevOps or any tech related stuff.
 <div>
 <a href="https://github.com/devmohit-live">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohit-live&theme=gotham&line_width=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohit-live&theme=gotham&line_width=30&&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/devmohit-live">
@@ -67,7 +67,7 @@ T: Trustworthy
 
 <br />
 <a href="https://github.com/devmohit-live/Terraform_AWS_Webserver">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=radical&cache_seconds=1800" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=radical" />
 
 </a>
 <a href="https://github.com/devmohit-live/EKS_Deployment_2tier">
