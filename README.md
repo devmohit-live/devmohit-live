@@ -57,21 +57,21 @@ T: Trustworthy
 - 💬 Ask me about Automation/DevOps or any tech related stuff.
 <div>
 <a href="https://github.com/devmohit-live">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohit-live&theme=dracula&line_width=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohit-live&theme=gotham&line_width=30" />
 </a>
 
 <a href="https://github.com/devmohit-live">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmohit-live&show_icons=true&theme=dracula&line_height=40&line_width=45" alt="Mohit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmohit-live&show_icons=true&line_height=40&line_width=45&count_private=true&include_all_commits=true&theme=vue-dark&cache_seconds=1800" alt="Mohit's github stats"/>
 </a>
 </div>
 
 <br />
 <a href="https://github.com/devmohit-live/Terraform_AWS_Webserver">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=radical&cache_seconds=1800" />
 
 </a>
 <a href="https://github.com/devmohit-live/EKS_Deployment_2tier">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=EKS_Deployment_2tier&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=EKS_Deployment_2tier&theme=tokyonight" />
 </a>
 
 <h3>What if you like my work?  😍</h3>
