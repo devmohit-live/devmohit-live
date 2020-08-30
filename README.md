@@ -20,9 +20,10 @@ T: Trustworthy
 <details>
   <summary><b>Certifications and Acheivements 🏆 </b></summary>
   <ul>
-   <li>My article : Deployinh Webserver on AWS using Terraform is published on AWS Monthly Newsletter <a href="https://www.linkedin.com/posts/devmohitsingh_aws-awseducate-terraform-activity-6686489548685406208-FBL4"> Post and Article</a>.</li>
+   <li>My article : Deploying Webserver on AWS using Terraform is published on AWS Monthly Newsletter <a href="https://www.linkedin.com/posts/devmohitsingh_aws-awseducate-terraform-activity-6686489548685406208-FBL4"> Post and Article</a>.</li>
     <li>AWS Student Ambassador</li>
     <li>Google IT Support Certification</li>
+    <li>AWS Fundaemtal Specialization</li>
     <li>Gold Medalist in Joy of Computing Using Python</a>.</li>
     <li>MTA Netwotking Fundamentals Certified</li>
     <li>DO101 Certified (Introduction to OpenShift Applications) </li>
