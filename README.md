@@ -1,8 +1,10 @@
 <div>
-<h1>Hola Visitor !, I am <a href="https://www.linkedin.com/in/devmohitsingh/">Mohit Singh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hola Visitor !, I am <a href="https://www.linkedin.com/in/devmohitsingh/">Mohit Singh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   
-<span style="display:block"> ![Visitor](https://komarev.com/ghpvc/?username=devmohit-livea&style=plastic&color=blueviolet&label=VISITOR)</span>
+<span style="display:block"> ![Visitor](https://komarev.com/ghpvc/?username=devmohit-livea&style=plastic&color=blueviolet&label=VISITORS:+)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic)](https://opensource.org/)
+
+</span>
 </div>
 <!-- <img align='right' src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/my_image.jpeg" width="230" /> -->
 <a href="https://www.linkedin.com/in/devmohitsingh/"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/linkedin.png" width="40" /></a>
@@ -85,3 +87,6 @@ T: Trustworthy
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
+
+
+ [![Made with ](http://ForTheBadge.com/images/badges/made-with-markdown.svg)](https://www.python.org/)
