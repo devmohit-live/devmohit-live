@@ -28,6 +28,8 @@ T: Trustworthy
   <summary><b>Certifications and Acheivements 🏆 </b></summary>
   <ul>
    <li>My article : Deploying Webserver on AWS using Terraform is published on AWS Monthly Newsletter <a href="https://www.linkedin.com/posts/devmohitsingh_aws-awseducate-terraform-activity-6686489548685406208-FBL4"> Post and Article</a>.</li>
+    <li>AWS Community Builder</li>
+    <li>AWS Honeycode Beta Testing Team Member</li>
     <li>AWS Student Ambassador</li>
     <li>Google IT Support Certification</li>
     <li>AWS Fundaemtal Specialization</li>
