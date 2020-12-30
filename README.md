@@ -62,7 +62,7 @@ T: Trustworthy
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-- 👨‍💻 I’m currently learning Flutter and Ansible.
+- 👨‍💻 I’m currently learning DSA and Flutter.
 - 🔭 I’m looking for a job/internship as a DevOps/Cloud Engineer
 - 💬 Ask me about Automation/DevOps or any tech related stuff.
 <div>
