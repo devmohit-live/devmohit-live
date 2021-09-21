@@ -1,6 +1,9 @@
 <div>
 <h1>Hola Visitor !, I am <a href="https://www.linkedin.com/in/devmohitsingh/">Mohit Singh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmohit-live&theme=dark&fire=red)](https://git.io/streak-stats)
+
+  
 <span style="display:block"> ![Visitor](https://komarev.com/ghpvc/?username=devmohit-livea&style=plastic&color=blueviolet&label=VISITORS:+)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic)](https://opensource.org/)
 
