@@ -65,8 +65,8 @@ T: Trustworthy
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-- 👨‍💻 I’m currently learning DSA and Flutter.
-- 🔭 I’m looking for a job/internship as a DevOps/Cloud Engineer
+- 👨‍💻 I’m currently learning DSA and React.
+- 🔭 I’m looking for a job as a SDE.
 - 💬 Ask me about Automation/DevOps or any tech related stuff.
 <div>
 <a href="https://github.com/devmohit-live">
