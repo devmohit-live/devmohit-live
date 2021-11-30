@@ -19,7 +19,7 @@
 
   <div class="socials">
     <a href="https://www.linkedin.com/in/devmohitsingh/"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/devmohit-live"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/github-logo.png" width="40" /></a>
+<a href="https://github.com/devmohit-live"><img src="https://github.com/devmohit-live/Images_of_repo/blob/master/portfolio_logos/GitHub-Mark-Light-120px-plus.png?raw=true" width="40" /></a>
 <a href="https://www.facebook.com/imdwarrior/"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/facebook.png" width="40" /></a>
 <a href="https://www.instagram.com/mr_developer.code"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/instagram.png" width="40" /></a>
   </div>
