@@ -26,7 +26,7 @@
 
 <h3>The Questions You May Have 👱🏼</h3>
 
-  <summary>Who are you? ❓</summary><pre>
+<summary> Who are you? ❓</summary><pre>
 A Philomath who loves to transform ideas into code.
 A third year Information technology student having a keen intrest in DevOps and Cloud Computing Technologies <br>
 My name describes my qualities,
@@ -74,9 +74,9 @@ T: Trustworthy
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-- 👨‍💻 I’m currently learning DSA and React.
-- 🔭 I’m looking for a job as a SDE.
-- 💬 Ask me about Automation/DevOps or any tech related stuff.
+ 👨‍💻 I’m currently learning DSA and React.
+ 🔭 I’m looking for a job as a SDE.
+ 💬 Ask me about Automation/DevOps or any tech related stuff.
 <div>
 <a href="https://github.com/devmohit-live">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohit-live&theme=gotham&line_width=30&&cache_seconds=1800" />
@@ -98,8 +98,7 @@ T: Trustworthy
 
 <h3>What if you like my work?  😍</h3>
 <ul>
-  <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts.</li>
+  You can Star ⭐ the repositories you like, also you can react ❤️ to my LinkedIn posts.
 </ul>
 
 
