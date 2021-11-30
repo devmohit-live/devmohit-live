@@ -1,19 +1,28 @@
-<div>
+# Readme.md
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+
+
+<div align="center">
 <h1>Hola Visitor !, I am <a href="https://www.linkedin.com/in/devmohitsingh/">Mohit Singh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <br>
   
 [![Mohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmohit-live&theme=dark&fire=red&hide_border=true)](https://github.com/devmohit-live)
 
+  <br>
   
-<span style="display:block"> ![Visitor](https://komarev.com/ghpvc/?username=devmohit-livea&style=plastic&color=blueviolet&label=VISITORS:+)
+<span style="display:block"> 
+  
+![Visitor](https://komarev.com/ghpvc/?username=devmohit-livea&style=plastic&color=blueviolet&label=VISITORS:+)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic)](https://opensource.org/)
-
+  
 </span>
-</div>
-<!-- <img align='right' src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/my_image.jpeg" width="230" /> -->
-<a href="https://www.linkedin.com/in/devmohitsingh/"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/linkedin.png" width="40" /></a>
+
+  <div class="socials">
+    <a href="https://www.linkedin.com/in/devmohitsingh/"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/devmohit-live"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/imdwarrior/"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/facebook.png" width="40" /></a>
 <a href="https://www.instagram.com/mr_developer.code"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/instagram.png" width="40" /></a>
+  </div>
 
 <h3>The Questions You May Have 👱🏼</h3>
 
