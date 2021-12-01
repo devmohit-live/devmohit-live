@@ -31,7 +31,7 @@
 
 <summary> Who are you? ❓</summary><pre>
 A Philomath who loves to transform ideas into code.
-A third year Information technology student having a keen intrest in DevOps and Cloud Computing Technologies <br>
+A 2021 Information technology grad having a keen intrest in DevOps and Cloud Computing Technologies <br>
 My name describes my qualities,
 M: Motivated Learner
 O: Open minded to create new things
