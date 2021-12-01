@@ -10,15 +10,12 @@
 [![Mohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmohit-live&theme=dark&fire=red&hide_border=true)](https://github.com/devmohit-live)
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=devmohit-live&row=2&column=3&margin-w=15&no-bg=true&no-frame=true&theme=onestar)](https://github.com/devmohit-live)
-
-  
-  <br>
-  
+ <br>
 <span style="display:block"> 
-  
+ 
 ![Visitor](https://komarev.com/ghpvc/?username=devmohit-livea&style=plastic&color=blueviolet&label=VISITORS:+)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic)](https://opensource.org/)
-  
+ 
 </span>
 
 <!--   socials -->
@@ -98,13 +95,10 @@ T: Trustworthy
 <a href="https://github.com/devmohit-live">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmohit-live&show_icons=true&line_height=40&line_width=45&count_private=true&include_all_commits=true&theme=vue-dark&cache_seconds=1800" alt="Mohit's github stats"/>
 </a>
-
+  
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=devmohit-live&&custom_title=Mohit's%20Activity%20Graph&theme=react-dark&hide_border=true&area=true)
-
   <br/> 
 </div>
-
-
 <!-- repo -->
 <br />
 <a href="https://github.com/devmohit-live/Terraform_AWS_Webserver">
