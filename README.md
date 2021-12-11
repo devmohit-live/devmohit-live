@@ -111,9 +111,11 @@ T: Trustworthy
 
 <!-- footer -->
 <h3>What if you like my work?  😍</h3>
-<ul>
-  You can Star ⭐ the repositories you like, also you can react ❤️ to my LinkedIn posts.
-</ul>
+
+ If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/devmohitlive) and add to my knowledge! 
+ 
+ <a href="https://www.buymeacoffee.com/devmohitlive" target="_blank"><img src="https://github.com/devmohit-live/Images_of_repo/raw/master/portfolio_logos/bmc-button.png" alt="Buy Me A Book" height="40" width="120"></a>
+
 
 
  [![Made with ](http://ForTheBadge.com/images/badges/made-with-markdown.svg)](https://www.python.org/)
