@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<h1>Hola Visitor !, I am <a href="https://www.linkedin.com/in/devmohitsingh/">Mohit Singh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1>Hola Visitor !, I am <a href="https://www.linkedin.com/in/devmohitsingh/">Mohit Singh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
   <br>
 <!--   streak and tropy -->
   
