@@ -89,11 +89,11 @@ T: Trustworthy
 <div>
     
 <a href="https://github.com/devmohit-live">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohit-live&theme=gotham&line_width=30&&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohit-live&theme=gotham&line_width=30&&cache_seconds=1800" />
 </a>
   
 <a href="https://github.com/devmohit-live">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmohit-live&show_icons=true&line_height=40&line_width=45&count_private=true&include_all_commits=true&theme=vue-dark&cache_seconds=1800" alt="Mohit's github stats"/>
+ <img  src="https://github-readme-stats.vercel.app/api?username=devmohit-live&show_icons=true&line_height=40&line_width=45&count_private=true&include_all_commits=true&theme=vue-dark&cache_seconds=1800" alt="Mohit's github stats"/>
 </a>
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=devmohit-live&&custom_title=Mohit's%20Activity%20Graph&theme=react-dark&hide_border=true&area=true)
@@ -103,19 +103,19 @@ T: Trustworthy
 <!-- repo -->
 <br />
 <a href="https://github.com/devmohit-live/PeerCoder">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=PeerCoder&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=PeerCoder&theme=algolia" />
 </a>
 
 <a href="https://github.com/devmohit-live/Google-Spreadsheet-Clone">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Google-Spreadsheet-Clone&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Google-Spreadsheet-Clone&theme=radical" />
 </a>
 
 <a href="https://github.com/devmohit-live/Terraform_AWS_Webserver">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=gotham" />
+<img  src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=gotham" />
 </a>
 
 <a href="https://github.com/devmohit-live/EKS_Deployment_2tier">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=EKS_Deployment_2tier&theme=tokyonight" />
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=EKS_Deployment_2tier&theme=tokyonight" />
 </a>
 
 <!-- footer -->
