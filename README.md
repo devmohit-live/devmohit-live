@@ -99,12 +99,21 @@ T: Trustworthy
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=devmohit-live&&custom_title=Mohit's%20Activity%20Graph&theme=react-dark&hide_border=true&area=true)
   <br/> 
 </div>
+
 <!-- repo -->
 <br />
-<a href="https://github.com/devmohit-live/Terraform_AWS_Webserver">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=radical" />
-
+<a href="https://github.com/devmohit-live/PeerCoder">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=PeerCoder&theme=algolia" />
 </a>
+
+<a href="https://github.com/devmohit-live/Google-Spreadsheet-Clone">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Google-Spreadsheet-Clone&theme=radical" />
+</a>
+
+<a href="https://github.com/devmohit-live/Terraform_AWS_Webserver">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=Terraform_AWS_Webserver&theme=gotham" />
+</a>
+
 <a href="https://github.com/devmohit-live/EKS_Deployment_2tier">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmohit-live&repo=EKS_Deployment_2tier&theme=tokyonight" />
 </a>
@@ -114,7 +123,7 @@ T: Trustworthy
 
  If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/devmohitlive) and add to my knowledge! 
  
- <a href="https://www.buymeacoffee.com/devmohitlive" target="_blank"><img src="https://github.com/devmohit-live/Images_of_repo/raw/master/portfolio_logos/bmc-button.png" alt="Buy Me A Book" height="40" width="120"></a>
+<a href="https://www.buymeacoffee.com/devmohitlive" target="_blank"><img src="https://github.com/devmohit-live/Images_of_repo/raw/master/portfolio_logos/bmc-button.png" alt="Buy Me A Book" height="40" width="120"></a>
 
 
 
