@@ -8,8 +8,13 @@
 <!--   streak and tropy -->
   
 [![Mohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmohit-live&theme=dark&fire=red&hide_border=true)](https://github.com/devmohit-live)
-
+  
+[![Mohit's Leetcode](https://leetcard.jacoblin.cool/devmohit?theme=dark&font=Karma&ext=contest)](leetcode.com/devmohit)
+  
+  
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=devmohit-live&row=2&column=3&margin-w=15&no-bg=true&no-frame=true&theme=onestar)](https://github.com/devmohit-live)
+  
+  
  <br>
 <span style="display:block"> 
  
