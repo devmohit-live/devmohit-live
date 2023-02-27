@@ -100,8 +100,9 @@ T: Trustworthy
 <a href="https://github.com/devmohit-live">
  <img  src="https://github-readme-stats.vercel.app/api?username=devmohit-live&show_icons=true&line_height=40&line_width=45&count_private=true&include_all_commits=true&theme=vue-dark&cache_seconds=1800" alt="Mohit's github stats"/>
 </a>
+
+[![Mohit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devmohit-live&theme=react-dark&area=true&hide_border=true)](https://github.com/devmohit-live)
   
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=devmohit-live&&custom_title=Mohit's%20Activity%20Graph%20of%20this%20Month&theme=react-dark&hide_border=true&area=true)
   <br/> 
 </div>
 
