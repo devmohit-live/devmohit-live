@@ -27,7 +27,7 @@
   <div class="socials">
     <a href="https://www.linkedin.com/in/devmohitsingh/"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/linkedin.png" width="40" /></a>
 <a href="https://leetcode.com/devmohit/"><img src="https://github.com/devmohit-live/Images_of_repo/raw/master/portfolio_logos/LeetCode_Logo_1.png?raw=true" width="40" /></a>
-<a href="https://github.com/devmohit-live"><img src="https://github.com/devmohit-live/Images_of_repo/blob/master/portfolio_logos/GitHub-Mark-Light-120px-plus.png?raw=true" width="40" /></a>
+<a href="https://github.com/devmohit-live"><img src="https://github.com/devmohit-live/Images_of_repo/blob/master/portfolio_logos/GitHub-Mark-Light-120px-plus.png?raw=true" width="40 /></a>
 <a href="https://www.instagram.com/mr_developer.code"><img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/portfolio_logos/instagram.png" width="40" /></a>
   </div>
 
@@ -37,7 +37,7 @@
 <summary> Who are you? ❓</summary><pre>
 A Philomath who loves to transform ideas into code.
 A 2021 Information technology grad having a keen intrest in DevOps and Cloud Computing Technologies 
-Currently Woking at Mercari Inc.  
+Currently Woking at Mercari Inc <img src="https://avatars.githubusercontent.com/u/8133808?s=30" />  
 <br>
 My name describes my qualities,
 M: Motivated Learner
