@@ -36,7 +36,9 @@
 
 <summary> Who are you? ❓</summary><pre>
 A Philomath who loves to transform ideas into code.
-A 2021 Information technology grad having a keen intrest in DevOps and Cloud Computing Technologies <br>
+A 2021 Information technology grad having a keen intrest in DevOps and Cloud Computing Technologies 
+Currently Woking at Mercari Inc.  
+<br>
 My name describes my qualities,
 M: Motivated Learner
 O: Open minded to create new things
