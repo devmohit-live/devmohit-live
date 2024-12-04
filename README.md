@@ -37,7 +37,7 @@
 <summary> Who are you? ❓</summary><pre>
 A Philomath who loves to transform ideas into code.
 A 2021 Information technology grad having a keen intrest in DevOps and Cloud Computing Technologies 
-Currently Woking at Mercari Inc <img src="https://avatars.githubusercontent.com/u/8133808?s=30" />  
+Currently Woking at Adobe <img src="https://raw.githubusercontent.com/devmohit-live/Images_of_repo/refs/heads/master/portfolio_logos/adobe.png" width="16px" height="16px"/>  
 <br>
 My name describes my qualities,
 M: Motivated Learner
